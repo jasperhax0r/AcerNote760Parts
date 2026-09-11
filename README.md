@@ -1,6 +1,6 @@
 # AcerNote 760iC Battery Pack Rebuild
 
-Rebuilding the dead battery pack for the Acer AcerNote 760iC so it accepts standard, replaceable **AA cells**. The original cells are long gone, so the pack shell is reused: AA contact tabs go in the cell slots, nickel strips underneath form the interconnects, and everything is wired back to the original output pad layout.
+Rebuilding the dead battery pack for the Acer AcerNote 760iC so it accepts standard, replaceable **AA cells**. The original cells are long gone, and the teardown damaged the case so a new shell had to be made: AA contact tabs go in the cell slots, nickel strips underneath form the interconnects, and everything is wired back to the original output pad layout.
 
 ![Laptop running on the rebuilt pack](Images/laptopworking.jpg)
 
